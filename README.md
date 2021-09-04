@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋 I’m Hugo Carvalho, known online as "hugok79" or "hugok"
+I'm a long-time portuguese translator to FOSS projects.
+
 <div>
   <a href="https://github.com/hugok79">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugok79&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
