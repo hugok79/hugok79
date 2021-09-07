@@ -1,4 +1,4 @@
-### Hi 👋 I’m Hugo Carvalho, known online as "hugok79" or "hugok"
+### Hi! I’m Hugo Carvalho, known online as "hugok79" or "hugok"
 I'm a long-time portuguese translator to FOSS projects.
 
 <div>
