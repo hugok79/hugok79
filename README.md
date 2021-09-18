@@ -14,9 +14,9 @@ I'm a long-time portuguese translator to FOSS projects.
 
 - 🇵🇹 I’m currently translating the following DE/WM: **GNOME, Xfce, Cinnamon, MATE, Pantheon, LXQT, Budgie, DDE(Deepin), TDE(Trinity), Enlightenment, IceWM ...**
 - 💬 Ask me about **portuguese translations**
-- 💻 I also translate all kind of software!
+- 💻 I also translate **all kind of software**!
 - 🙂 Pronouns: **he/him**
-- ⚡ Fun fact: My professional area has nothing to do with this area(Translations). The translation is my contribution to FOSS and Portuguese(Portugal) Users.
+- ⚡ Fun fact: my professional area has nothing to do with this area(Translations). The translation is my contribution to FOSS and Portuguese(Portugal) Users.
   
   <!--
 **hugok79/hugok79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
