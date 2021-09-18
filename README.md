@@ -1,4 +1,4 @@
-### Hey there 👋, I'm Hugo Carvalho!
+### Hey there, I'm Hugo Carvalho!
 
 <hr>
 
@@ -12,7 +12,7 @@ I'm a long-time portuguese translator to FOSS projects.
 
 ### More about me
 
-- 🇵🇹 I’m currently translating the **GNOME, Xfce, Cinnamon, MATE, Pantheon, LXQT, Budgie, DDE(Deepin), TDE(Trinity), Enlightenment, IceWM ...**
+- 🇵🇹 I’m currently translating **GNOME, Xfce, Cinnamon, MATE, Pantheon, LXQT, Budgie, DDE(Deepin), TDE(Trinity), Enlightenment, IceWM ...**
 - 💬 Ask me about **portuguese translations**
 - 💻 I also translate **all kind of software**!
 - 🙂 Pronouns: **he/him**
