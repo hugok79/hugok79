@@ -15,7 +15,6 @@ I'm a long-time portuguese translator to FOSS projects.
 - 🇵🇹 I’m currently translating **GNOME, Xfce, Cinnamon, MATE, Pantheon, LXQT, Budgie, DDE(Deepin), TDE(Trinity), Enlightenment, IceWM**
 - 💻 I also translate **all kind of software**!
 - 💬 Ask me about **portuguese translations**
-- 🙂 Pronouns: **he/him**
 
 <hr>  
   <!--
