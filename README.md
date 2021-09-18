@@ -1,4 +1,4 @@
-### Hi! I’m Hugo Carvalho.
+### Hi! I am Hugo Carvalho.
 I'm a long-time portuguese translator to FOSS projects.
 
 <div>
