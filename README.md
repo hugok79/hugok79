@@ -16,7 +16,7 @@ I'm a long-time portuguese translator to FOSS projects.
 - 💬 Ask me about **portuguese translations**
 - 💻 I also translate all kind of software!
 - 🙂 Pronouns: **he/him**
-- ⚡ Fun fact: My professional area has nothing to do with this area(Translations), translation is a hobby/contribution to FOSS, and for Portuguese(Portugal) Users.
+- ⚡ Fun fact: My professional area has nothing to do with this area(Translations). The translation is my contribution to FOSS and Portuguese(Portugal) Users.
   
   <!--
 **hugok79/hugok79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
