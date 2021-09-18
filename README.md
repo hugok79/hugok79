@@ -12,9 +12,9 @@ I'm a long-time portuguese translator to FOSS projects.
 
 ### More about me
 
-- 🇵🇹 I’m currently translating **GNOME, Xfce, Cinnamon, MATE, Pantheon, LXQT, Budgie, DDE(Deepin), TDE(Trinity), Enlightenment, IceWM ...**
-- 💬 Ask me about **portuguese translations**
+- 🇵🇹 I’m currently translating **GNOME, Xfce, Cinnamon, MATE, Pantheon, LXQT, Budgie, DDE(Deepin), TDE(Trinity), Enlightenment, IceWM**
 - 💻 I also translate **all kind of software**!
+- 💬 Ask me about **portuguese translations**
 - 🙂 Pronouns: **he/him**
   
   <!--
