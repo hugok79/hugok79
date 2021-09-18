@@ -12,11 +12,10 @@ I'm a long-time portuguese translator to FOSS projects.
 
 ### More about me
 
-- 🇵🇹 I’m currently translating the following DE/WM: **GNOME, Xfce, Cinnamon, MATE, Pantheon, LXQT, Budgie, DDE(Deepin), TDE(Trinity), Enlightenment, IceWM ...**
+- 🇵🇹 I’m currently translating the **GNOME, Xfce, Cinnamon, MATE, Pantheon, LXQT, Budgie, DDE(Deepin), TDE(Trinity), Enlightenment, IceWM ...**
 - 💬 Ask me about **portuguese translations**
 - 💻 I also translate **all kind of software**!
 - 🙂 Pronouns: **he/him**
-- ⚡ Fun fact: my professional area has nothing to do with this(Translations). The translation is my contribution to FOSS and portuguese users.
   
   <!--
 **hugok79/hugok79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
