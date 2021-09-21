@@ -12,7 +12,7 @@ I'm a long-time portuguese translator to FOSS projects.
 
 ### More about me
 
-- 🇵🇹 I’m currently translating **GNOME, Xfce, Cinnamon, MATE, Pantheon, LXQT, Budgie, DDE(Deepin), TDE(Trinity), Moksha, Enlightenment, IceWM**
+- 🇵🇹 I’m currently translating **GNOME, Xfce, Cinnamon, MATE, Pantheon, LXQT, Budgie, DDE(Deepin), TDE(Trinity), CutefishOS, Moksha, Enlightenment, IceWM, helloSystem**
 - 💻 I also translate **all kind of software**!
 - 💬 Ask me about **portuguese translations**
 
