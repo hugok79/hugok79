@@ -2,7 +2,7 @@
 
 <hr>
 
-I'm a long-time portuguese translator to FOSS projects.
+I'm a long-time portuguese translator of Open Source Software.
 
 <div>
   <a href="https://github.com/hugok79">
@@ -12,8 +12,8 @@ I'm a long-time portuguese translator to FOSS projects.
 
 ### More about me
 
-- 🇵🇹 I’m currently translating **GNOME, Xfce, Cinnamon, MATE, Pantheon, LXQT, Budgie, DDE(Deepin), TDE(Trinity), CutefishOS, Moksha, Enlightenment, IceWM, helloSystem...**
-- 💻 I also translate **all kind of software**!
+- 🇵🇹 I’m currently translating **all kind of software**!
+- 💻 **Slackware Linux** User
 - 💬 Ask me about **portuguese translations**
 
 <hr>  
