@@ -2,7 +2,7 @@
 
 <hr>
 
-I'm a long-time portuguese translator of Open Source Software.
+I'm a software translator.
 
 <div>
   <a href="https://github.com/hugok79">
@@ -10,17 +10,16 @@ I'm a long-time portuguese translator of Open Source Software.
 </div>
   <hr>
 
+  <!--
+**hugok79/hugok79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
 ### More about me
 
 - 🇵🇹 I’m currently translating **all kind of software**!
 - 💻 **Slackware Linux** User
 - 💬 Ask me about **portuguese translations**
-
-<hr>  
-  <!--
-**hugok79/hugok79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
