@@ -2,7 +2,7 @@
 
 <hr>
 
-I'm a software translator.
+I'm a Portuguese software translator.
 
 <div>
   <a href="https://github.com/hugok79">
