@@ -1,4 +1,4 @@
-### Hey there, I'm Hugo Carvalho!
+<!--### Hey there, I'm Hugo Carvalho!
 I'm a Portuguese (Portugal) software translator.
 
 <div>
@@ -6,7 +6,6 @@ I'm a Portuguese (Portugal) software translator.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugok79&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-  <!--
 **hugok79/hugok79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
