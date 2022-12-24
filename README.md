@@ -1,8 +1,8 @@
 
 Portuguese(Portugal) translator of the following desktop environments:
 
-* GNOME
 * Xfce
+* GNOME
 * Cinnamon
 * MATE
 * LXQt
@@ -10,6 +10,7 @@ Portuguese(Portugal) translator of the following desktop environments:
 * Pantheon
 * Trinity
 * Moksha
+* Enlightenment
 * IceWM
 * JWM
 
