@@ -2,4 +2,4 @@
 
 * With approximately 215 to 220 million native speakers and 260 million total speakers, Portuguese is usually listed as the sixth most natively spoken language in the world, the third-most spoken European language in the world in terms of native speakers, and a major language of the Southern Hemisphere. It is also the most spoken language in South America and the second-most spoken in Latin America after Spanish, and is an official language of the European Union, Mercosul, OAS, ECOWAS and the African Union.
 
-                            ![Bandeira de Portugal](https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg)
+  ![Bandeira de Portugal](https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg)
